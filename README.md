@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Java, android, springboot, bash/shell
-- 📫 How to reach me: kbett68@gmail.com
+- 📫 How to reach me: via Email address [here](kbett68@gmail.com)
 - 😄 Pronouns: He, Him, His
 - ⚡ Fun fact: I love 🏊🏼‍♂️, 🎵, 🎸, 📚, 🚣🏽‍♂️, and ☕️.
 
