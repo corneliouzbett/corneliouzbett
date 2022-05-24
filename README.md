@@ -5,8 +5,8 @@
 
 > I'm Kipchumba C. Bett. Currently, I'm working as a software developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning cross-platform : - Flutter
+- 🔭 I’m currently working on ... openmrs-module-queue,
+- 🌱 I’m currently learning : - Android kotlin and jetpack compose
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Java, android, springboot, MySQL, bash/shell, flutter
