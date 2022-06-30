@@ -6,7 +6,7 @@
 <div align="left">
   <a href="https://api.daily.dev/get?r=corneliouzbett" target="_blank">
     <img
-      width="256"
+      width="260"
       align="right"
       src="https://github.com/corneliouzbett/corneliouzbett/blob/main/devcard.svg"
     />
@@ -22,3 +22,8 @@ Software Engineer at [USAID-AMPATH Kenya](https://www.ampathkenya.org)
 - 📫 How to reach me: via Email address [here](kipchubett@gmail.com)
 - 😄 Pronouns: He, Him, His
 - ⚡ Fun fact: I love 🏊🏼‍♂️, 🎵, 🎸, 📚, 🚣🏽‍♂️, and ☕️.
+
+----
+
+![corneliouzbett's github stats](https://github-readme-stats.vercel.app/api?username=corneliouzbett&theme=vue&show_icons=true&include_all_commits=true&count_private=true)
+<img width="" height="" src="https://github-readme-streak-stats.herokuapp.com/?user=corneliouzbett">
