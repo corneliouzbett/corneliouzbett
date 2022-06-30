@@ -22,8 +22,3 @@ Software Engineer at [USAID-AMPATH Kenya](https://www.ampathkenya.org)
 - 📫 How to reach me: via Email address [here](kipchubett@gmail.com)
 - 😄 Pronouns: He, Him, His
 - ⚡ Fun fact: I love 🏊🏼‍♂️, 🎵, 🎸, 📚, 🚣🏽‍♂️, and ☕️.
-
-----
-
-![corneliouzbett's github stats](https://github-readme-stats.vercel.app/api?username=corneliouzbett&theme=vue&show_icons=true&include_all_commits=true&count_private=true)
-<img width="" height="" src="https://github-readme-streak-stats.herokuapp.com/?user=corneliouzbett">
