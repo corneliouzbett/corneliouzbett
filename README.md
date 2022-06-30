@@ -8,17 +8,17 @@
     <img
       width="256"
       align="right"
-      src="https://raw.githubusercontent.com/corneliouzbett/corneliouzbett/devcard/devcard.svg"
+      src="https://github.com/corneliouzbett/corneliouzbett/blob/main/devcard.svg"
     />
   </a>
 </div>
 
-### I'm Kipchumba C. Bett.
+## I'm Kipchumba C. Bett.
 Software Engineer at [USAID-AMPATH Kenya](https://www.ampathkenya.org)
 
-- 🔭 I’m currently working on : - openmrs-module-queue,...
+- 🔭 I’m currently working on : - ETL Migration and Scaling, Utilize docker for OpenMRS module development, and Backend support for service delivery queues.
 - 🌱 I’m currently learning : - Android-Kotlin and Jetpack Compose
-- 💬 Ask me about Java, Android, Spring, Springboot, Micro-services, Apache kafka, MySQL, bash/shell, DevOps
+- 💬 Ask me about Java, Android, Spring, Springboot, Micro-services, Apache kafka, MySQL, bash/shell, DevOps, Hibernate, Spring-data JPA
 - 📫 How to reach me: via Email address [here](kipchubett@gmail.com)
 - 😄 Pronouns: He, Him, His
 - ⚡ Fun fact: I love 🏊🏼‍♂️, 🎵, 🎸, 📚, 🚣🏽‍♂️, and ☕️.
