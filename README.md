@@ -10,11 +10,11 @@
   </a>
 </div>
 
-I'm Kipchumba Bett, a Software Engineer at [USAID-AMPATH Kenya](https://www.ampathkenya.org)
+I'm Kipchumba Bett, a Software Engineer at Mekom
 
 A seasoned Engineer with a passion for coding, problem-solving & innovation. I thrive in challenging environments & enjoy building scalable, engaging software solutions. 
 
-Let's collaborate and make amazing things.
+Let's collaborate and do amazing things.
 
 
 ## 🌐 Let's connect
