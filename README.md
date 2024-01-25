@@ -1,18 +1,6 @@
 ## 👋👋 Hola
 
-<div align="left">
-  <a href="https://api.daily.dev/get?r=corneliouzbett" target="_blank">
-    <img
-      width="260"
-      align="right"
-      src="https://github.com/corneliouzbett/corneliouzbett/blob/main/devcard.svg"
-    />
-  </a>
-</div>
-
-I'm Kipchumba Bett, a Software Engineer at Mekom
-
-A seasoned Engineer with a passion for coding, problem-solving & innovation. I thrive in challenging environments & enjoy building scalable, engaging software solutions. 
+I'm Kipchumba Bett, a Software Engineer at Mekom.
 
 Let's collaborate and do amazing things.
 
