@@ -2,7 +2,7 @@
 
 I'm Kipchumba Bett, a Software Engineer at Mekom.
 
-Let's collaborate and do amazing things.
+Let's collaborate to do amazing things.
 
 
 ## 🌐 Let's connect
