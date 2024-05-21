@@ -1,4 +1,4 @@
-## 👋👋 Hola
+## Hola 👋
 
 I'm Kipchumba Bett, a Software Engineer at Mekom.
 
