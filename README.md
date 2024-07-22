@@ -1,6 +1,6 @@
 ## Hola 👋
 
-I'm Kipchumba Bett, a Software Engineer at Mekom.
+I'm Bett Kipchumba a Software Engineer at Mekom.
 
 Let's collaborate and do amazing things together!
 
